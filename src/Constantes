@@ -1,0 +1,4 @@
+
+MensagemBoasVindas = Por favor, informe a data, quantidade de caes pequenos e quantidade de caes grandes no formato, (dd/mm/aaaa x y):
+MensagemErro = Voce nao digitou os dados corretamente. Por favor, insira novamente!
+MensagemMelhorPetshop = O petshop com o melhor custo e o:
